@@ -1,0 +1,2 @@
+Disney docker
+1. Get ubuntu docker image as base

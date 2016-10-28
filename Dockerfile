@@ -6,9 +6,9 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
   python-dev \
   software-properties-common \
   unzip \
+  git-all \
   && \
   apt-get clean && \
-  git-core /
   rm -rf /var/lib/apt/lists/*
 
 
